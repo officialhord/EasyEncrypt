@@ -3,8 +3,9 @@ This is for a desktop application that encodes a message offline, can be used to
 
 ### Install
 Requirements
+
 |Windows|Win 7,8,10|
-|||
+|---|---|
 |Java Runtime Environment|http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html|
 
 
