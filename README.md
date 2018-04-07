@@ -8,6 +8,12 @@ Requirements
 |---|---|
 |Java Runtime Environment|http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html|
 
+1. GEt source, Clone the git Repository.
+https://github.com/officialhord/EasyEncrypt.git
+Open application with Netbeans IDE
+
+2. Download the jar file
+https://github.com/officialhord/EasyEncrypt/blob/master/dist/EasyEncrypt.jar
 
 ### How to use the application
 
