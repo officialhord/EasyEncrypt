@@ -10,6 +10,7 @@ Requirements
 
 1. GEt source, Clone the git Repository.
 https://github.com/officialhord/EasyEncrypt.git
+
 Open application with Netbeans IDE
 
 2. Download the jar file
