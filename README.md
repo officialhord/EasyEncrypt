@@ -16,6 +16,6 @@ This message will appear
 
 ![](https://steemitimages.com/DQmXGsKBjQrnKTL8ZFEb641BSFSe9WFLmuV7xHCN6eeMSEb/image.png)
 
-Heres a video to explain the whole process again.
+Heres a [video](https://www.youtube.com/watch?v=yOWwWKxpcS8) to explain the whole process again.
 
-https://www.youtube.com/watch?v=yOWwWKxpcS8
+
