@@ -1,6 +1,13 @@
 # EasyEncrypt
 This is for a desktop application that encodes a message offline, can be used to send secure encoded message. This application uses AES and DES algorithms based on user choic to encrypt and decrypt text.
 
+### Install
+Requirements
+|Windows|Win 7,8,10|
+|||
+|Java Runtime Environment|http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html|
+
+
 ### How to use the application
 
 1. First enter the text to be encrypted
@@ -22,3 +29,4 @@ This message will appear
 Heres a [video](https://www.youtube.com/watch?v=yOWwWKxpcS8) to explain the whole process again.
 
 
+### License - MIT License
