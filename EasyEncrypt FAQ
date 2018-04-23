@@ -1,0 +1,54 @@
+EasyEncrypt
+
+What is EasyEncrypt?
+
+EasyEncrypt is a desktop application that encodes messages.
+
+Is EasyEncrypt online or Offline?
+
+EasyEncrypt is offline.
+
+How does it encode messages?
+
+EasyEncrypt encodes using the Advance Encryption Standard Standard(AES) and the Data Encryption (DES) algorithms.
+
+Is EasyEncrypt Safe?
+
+Yes, it’s safe and won’t harm your Pc in any way.
+
+How secure is the encrypted messages by EasyEncrypt?
+
+It’s very secure, and you have option to use ^7 encryption (i.e you can encrypt a text many times as needed with as many keys.
+
+Can Images and Videos by encrypted with EasyEncrypt?
+
+No, not yet but would be possible in future updates.
+
+How do I encrypt texts?
+
+Open your EasyEncrypt.
+1.	Type in your text.
+2.	Select the alogarithm you want, either AES or DES.
+3.	Input your key (this serves as a password for opening the text)
+4.	Click Encrypt.
+5.	you find your Encrypted text.
+
+![ea2](https://user-images.githubusercontent.com/35721447/39151164-50144cf0-473c-11e8-91b3-33e22a79327e.png)
+
+How do I decrypt texts?
+Open your EasyEncrypt
+1.	Paste in your encrypted message.
+2.	Select the right alogarithm.
+3.	Type in the key (key given by the sender of the encrypted message)
+4.	Click Decrypt.
+5.	Your Decrypted message appears here.
+
+![ea3](https://user-images.githubusercontent.com/35721447/39151191-6fab1544-473c-11e8-97e4-e6296939828d.png)
+
+Can I send Encrypted text via social media?
+You can send your encrypted texts to friends via your social media or by mail.
+
+How do I contact project owner?
+You can contact him for any contributions or suggestions via the following:
+Email: https://ayjohn7@gmail.com/
+Discord: official-hord[Ant Man]#3578
