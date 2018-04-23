@@ -1,0 +1,24 @@
+EasyEncrypt is a desktop offline application meant to provide encryption and decryption services to users.
+
+we thought of the importance of secrect coded messages amoungst people to avoid sensitive information from being accessed by just anybody.
+And so we decided to come up with this project to help people protect sensitive informations from being leaked to the wrong eyes.
+Encryption is done with a key chosen by the sender which must be used by the receiver before the encrypted message can be decrypted.
+
+Importance Of EasyEncrypt
+
+It provides security as it is offline and cannot be hacked as such. 
+Users can have as much privacy as they want as encrypted text can be sent over social media and mail to directed receiver only without fear of being spied upon.
+encrypted text can be encrypted over and over again with different keys and would be decrypted as long as the sequence of encryption and 
+the right key attached to each level is followed correctly.
+Encryption can now be over one step, so even if your key gets leaked mistakenly, the steps would remain unknown to the key thief, this way security is still assured.
+Users can choose between Algorithms to be used (DES, AES).
+
+
+Enjoy the Encryption and Decryption service rendered by our application.
+
+For questions you can check out the FAQ section.
+Contact us via the following.
+On Discord :
+official-hord[Ant Man]#3578
+On Github :
+https://github.com/officialhord/EasyEncrypt
